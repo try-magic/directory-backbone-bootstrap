@@ -5,7 +5,7 @@
 ### 08-07-2015 ###
 ### Tasks: ###
 
-1.Display list of employees with search form on index page by default.
+1. Display list of employees with search form on index page by default.
 2. Search input should filter employees by First/Last names or should show message 'No employees found'.
 3. Refactoring:
 
